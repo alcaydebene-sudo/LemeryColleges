@@ -1,0 +1,10 @@
+validDocsPaths: Array
+(
+    [0] => uploads/1764240782_doc_Form 137.jpg
+    [1] => uploads/1764240782_doc_Form 138.jpg
+    [2] => uploads/1764240782_doc_JHS Diploma.jpg
+    [3] => uploads/1764240782_doc_good moral.png
+    [4] => uploads/1764240782_doc_Birth Certificate.jpg
+)
+
+appFilePath: 
